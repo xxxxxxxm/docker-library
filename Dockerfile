@@ -1,2 +1,2 @@
-FROM gcr.io/spark-operator/spark-operator:v1beta2-1.2.3-3.1.1
+FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 MAINTAINER xxxxxxxm <20210240175@fudan.edu.cn>
